@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning in interest of evaluating and direction Secrets Management
+- 🥶 Please don't reach out, this account is purely for testing and evaluating. 
+
 <!--
 **Camby-Git/Camby-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
